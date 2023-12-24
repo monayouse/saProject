@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +11,20 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.main-color{
+  color: green !important;
+
+}
+.main-bg-color{
+  background-color: rgb(51, 192, 51) !important;
+
+}
+a, a:hover{
+  color: black !important;
+  text-decoration: none !important;
+}
+.cart{
+  background-color: rgba(125, 125, 125, 0.609);
 }
